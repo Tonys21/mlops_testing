@@ -1,0 +1,12 @@
+digest: 5d5ec8aa
+name: dataset
+profile: '{"num_rows": 400, "num_elements": 4400}'
+schema: '{"mlflow_colspec": [{"type": "double", "name": "fixed acidity"}, {"type":
+  "double", "name": "volatile acidity"}, {"type": "double", "name": "citric acid"},
+  {"type": "double", "name": "residual sugar"}, {"type": "double", "name": "chlorides"},
+  {"type": "double", "name": "free sulfur dioxide"}, {"type": "double", "name": "total
+  sulfur dioxide"}, {"type": "double", "name": "density"}, {"type": "double", "name":
+  "pH"}, {"type": "double", "name": "sulphates"}, {"type": "double", "name": "alcohol"}]}'
+source: '{"tags": {"mlflow.user": "antoineherbet", "mlflow.source.name": "/Users/antoineherbet/anaconda3/envs/mlops_testing/lib/python3.11/site-packages/ipykernel_launcher.py",
+  "mlflow.source.type": "LOCAL"}}'
+source_type: code
