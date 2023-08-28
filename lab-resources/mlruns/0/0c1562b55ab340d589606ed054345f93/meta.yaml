@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/antoineherbet/Documents/Mes%20projets/mlops_testing/lab-resources/mlruns/0/0c1562b55ab340d589606ed054345f93/artifacts
+end_time: 1692110260046
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0c1562b55ab340d589606ed054345f93
+run_name: abundant-dolphin-194
+run_uuid: 0c1562b55ab340d589606ed054345f93
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692110257525
+status: 3
+tags: []
+user_id: antoineherbet

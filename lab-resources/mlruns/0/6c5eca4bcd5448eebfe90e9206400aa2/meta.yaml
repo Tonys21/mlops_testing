@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/antoineherbet/Documents/Mes%20projets/mlops_testing/lab-resources/mlruns/0/6c5eca4bcd5448eebfe90e9206400aa2/artifacts
+end_time: 1692110262591
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6c5eca4bcd5448eebfe90e9206400aa2
+run_name: colorful-bug-29
+run_uuid: 6c5eca4bcd5448eebfe90e9206400aa2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692110260737
+status: 3
+tags: []
+user_id: antoineherbet

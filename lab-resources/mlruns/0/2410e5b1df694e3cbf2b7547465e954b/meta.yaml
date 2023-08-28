@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/antoineherbet/Documents/Mes%20projets/mlops_testing/lab-resources/mlruns/0/2410e5b1df694e3cbf2b7547465e954b/artifacts
+end_time: 1692110265137
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2410e5b1df694e3cbf2b7547465e954b
+run_name: rare-ant-836
+run_uuid: 2410e5b1df694e3cbf2b7547465e954b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692110263273
+status: 3
+tags: []
+user_id: antoineherbet

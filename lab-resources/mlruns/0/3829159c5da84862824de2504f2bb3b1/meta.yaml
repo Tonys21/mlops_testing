@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/antoineherbet/Documents/Mes%20projets/mlops_testing/lab-resources/mlruns/0/3829159c5da84862824de2504f2bb3b1/artifacts
+end_time: 1692108119396
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3829159c5da84862824de2504f2bb3b1
+run_name: entertaining-asp-22
+run_uuid: 3829159c5da84862824de2504f2bb3b1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692108117285
+status: 3
+tags: []
+user_id: antoineherbet

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/antoineherbet/Documents/Mes%20projets/mlops_testing/lab-resources/mlruns/0/b0161bd699dc4ed49f8278dd79e463ea/artifacts
+end_time: 1692109698121
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b0161bd699dc4ed49f8278dd79e463ea
+run_name: luminous-carp-705
+run_uuid: b0161bd699dc4ed49f8278dd79e463ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692109695637
+status: 3
+tags: []
+user_id: antoineherbet

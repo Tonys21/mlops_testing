@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/antoineherbet/Documents/Mes%20projets/mlops_testing/lab-resources/mlruns/0/6607175f1c1141febbc8b4eabc678157/artifacts
+end_time: 1692110054339
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6607175f1c1141febbc8b4eabc678157
+run_name: redolent-cat-640
+run_uuid: 6607175f1c1141febbc8b4eabc678157
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692110050153
+status: 3
+tags: []
+user_id: antoineherbet
